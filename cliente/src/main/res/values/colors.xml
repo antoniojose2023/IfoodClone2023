@@ -2,4 +2,9 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- cores ifood -->
+    <color name="white_ifood">#FFFFFF</color>
+    <color name="gray_ifood">#F7F7F7</color>
+    <color name="red_ifood">#EA1D2C</color>
 </resources>
